@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+### Under construction. 
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Some content coming up soon ...
